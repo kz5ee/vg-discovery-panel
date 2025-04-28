@@ -1,1 +1,0 @@
-# vg-discovery-panel
